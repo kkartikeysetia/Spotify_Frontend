@@ -1,7 +1,7 @@
 # 🎵 Spotify‑Style Music Player
 
 A sleek React + Vite web app that re‑imagines Spotify’s home screen and bottom player bar.
-**Live Demo:** [View Here]((https://spotify-frontend-kartikey.vercel.app/)) 👈
+**Live Demo:** [View Here](https://spotify-frontend-kartikey.vercel.app/) 👈
 
 ---
 

@@ -62,11 +62,12 @@ src/
    ```
 4. Visit the local URL shown in the terminal — your app is live!
 
-ℹ️   The instructions above are adapted from the *How to Run this Project* guide.fileciteturn1file0L11-L16
+ℹ️   The instructions above are adapted from the *How to Run this Project*
+
 
 ### ⚠️ Troubleshooting
 
-* Ensure `node_modules` appears after `npm install` — re‑run the command if it doesn’t.fileciteturn1file0L13-L13
+* Ensure `node_modules` appears after `npm install` — re‑run the command if it doesn’t.
 * On Windows, run the terminal **as Administrator** if you hit permission errors.
 * Still stuck? Check the PDF guide or watch the YouTube playlist linked therein.fileciteturn1file0L17-L17
 
@@ -76,13 +77,6 @@ src/
 * **Tailwind CSS** 💅
 * **Context API** for global player state ☑️
 * **ESLint + Prettier** for code quality 🧹
-
-## 💡 Future Enhancements
-
-* 🔐 OAuth login & Spotify Web API integration
-* 📱 PWA install prompt & offline caching
-* 🎤 Synchronized lyrics overlay
-* 🌐 Internationalization (i18n)
 
 ---
 
